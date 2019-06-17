@@ -1,0 +1,65 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Software\altera\pipeline\simulation\modelsim
+vregfile
+!i10b 1
+!s100 kIdNYG4OSn[]5XdjJQ3S;1
+ITWM[3:XGRhZ[Y4^GnDV<H1
+VHL?YD<z4Tlb1gm`0^XW@D2
+Z1 dD:\Software\altera\pipeline\simulation\modelsim
+w1559887620
+8D:/Software/altera/pipeline/regfile.v
+FD:/Software/altera/pipeline/regfile.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1560174285.702000
+!s107 D:/Software/altera/pipeline/regfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/pipeline|D:/Software/altera/pipeline/regfile.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+D:/Software/altera/pipeline -O0
+vrom
+I[LRn4iT21nUeh2A]1LBX;3
+V@`P0ba0gkFol5KXk2I2WA1
+R1
+w1560162987
+8D:/Software/altera/pipeline/rom.v
+FD:/Software/altera/pipeline/rom.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 :SmfO4a3le2WeI0;TCXkm3
+!s85 0
+!s108 1560174284.966000
+!s107 D:/Software/altera/pipeline/rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/pipeline|D:/Software/altera/pipeline/rom.v|
+!s101 -O0
+vsevenseg
+I106OY;;F]Bzj:KPJI3IjJ0
+VY^][jX`@WWN<XZD2_;W3[0
+R1
+w1559887680
+8D:/Software/altera/pipeline/sevenseg.v
+FD:/Software/altera/pipeline/sevenseg.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 ;zIAn`9HGB_N8<?oULeYh0
+!s85 0
+!s108 1560174284.876000
+!s107 D:/Software/altera/pipeline/sevenseg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/pipeline|D:/Software/altera/pipeline/sevenseg.v|
+!s101 -O0

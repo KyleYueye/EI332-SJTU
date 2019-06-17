@@ -1,0 +1,385 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\altera13.1
+valu
+Z1 !s100 nc7:nL=aYe^fIMY;jR6^O1
+Z2 IO?ak^?9`Hg<Gl_O2aSnYY0
+Z3 VKc:bVz32gc5X2ZbjUde9O3
+Z4 dD:\file\quartus_design\sc_computer
+Z5 w1528092295
+Z6 8D:/file/quartus_design/sc_computer/source/alu.v
+Z7 FD:/file/quartus_design/sc_computer/source/alu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/alu.v|
+Z10 o-work work -O0
+Z11 !s108 1528718834.913000
+Z12 !s107 D:/file/quartus_design/sc_computer/source/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdff32
+Z13 !s100 cY0M6zDCe1be@OcJk>dIk2
+Z14 I7TnHBmL[7^gVEYeL;BoU91
+Z15 VUO7_EzIi9>SeN7M;XG9<c0
+R4
+Z16 w1305031718
+Z17 8D:/file/quartus_design/sc_computer/source/dff32.v
+Z18 FD:/file/quartus_design/sc_computer/source/dff32.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/dff32.v|
+R10
+Z20 !s108 1528718835.023000
+Z21 !s107 D:/file/quartus_design/sc_computer/source/dff32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdffe32
+Z22 !s100 >QCJ4N=doUV@;I60kz>JB2
+Z23 I]245HCDH`zm4KdVFKJd@A0
+Z24 V6]Tk:7m18<;Eoi?;I3VNB3
+R4
+Z25 w1252914812
+Z26 8D:/file/quartus_design/sc_computer/source/dffe32.v
+Z27 FD:/file/quartus_design/sc_computer/source/dffe32.v
+L0 1
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/dffe32.v|
+R10
+Z29 !s108 1528718835.133000
+Z30 !s107 D:/file/quartus_design/sc_computer/source/dffe32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vio_input_mux
+Z31 IKLbM[IfJQHE2eTzjTABH]0
+Z32 VE]W_C0AC;VoBAl[RC@dLB2
+R4
+Z33 w1528714278
+Z34 8D:/file/quartus_design/sc_computer/source/io_input_reg.v
+Z35 FD:/file/quartus_design/sc_computer/source/io_input_reg.v
+L0 16
+R8
+r1
+31
+Z36 !s108 1528718837.102000
+Z37 !s107 D:/file/quartus_design/sc_computer/source/io_input_reg.v|
+Z38 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/io_input_reg.v|
+R10
+Z39 !s100 _==ndC7g]SLK<92G19DKI1
+!i10b 1
+!s85 0
+!s101 -O0
+vio_input_reg
+Z40 I0cF9nK7WJzEZUd[V64aNc1
+Z41 V7KKB=Y^PcjQoCkRGb;;Xz1
+R4
+R33
+R34
+R35
+L0 1
+R8
+r1
+31
+R36
+R37
+R38
+R10
+Z42 !s100 Y2<FAzVTZfdSVIhad^Zn=0
+!i10b 1
+!s85 0
+!s101 -O0
+vio_output_reg
+Z43 I^05<chgfd^T5T@2PU:U1f3
+Z44 V?f=h:WaAWKdngnaa?QSJj2
+R4
+Z45 w1528707906
+Z46 8D:/file/quartus_design/sc_computer/source/io_output_reg.v
+Z47 FD:/file/quartus_design/sc_computer/source/io_output_reg.v
+L0 1
+R8
+r1
+31
+R10
+!i10b 1
+Z48 !s100 X7KOac@kCdY0HO_;AN@:i2
+!s85 0
+Z49 !s108 1528718837.332000
+Z50 !s107 D:/file/quartus_design/sc_computer/source/io_output_reg.v|
+Z51 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/io_output_reg.v|
+!s101 -O0
+vlpm_ram_dq_dram
+Z52 !s100 <@gEWCY>4[RBFZ^bdJ6cA2
+Z53 I]lYEl5RZ8C1HFg`[g6S7^2
+Z54 V;^>UgMFOjF@EZ@A<NMAW`0
+R4
+Z55 w1305005947
+Z56 8D:/file/quartus_design/sc_computer/source/lpm_ram_dq_dram.v
+Z57 FD:/file/quartus_design/sc_computer/source/lpm_ram_dq_dram.v
+L0 39
+R8
+r1
+31
+Z58 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/lpm_ram_dq_dram.v|
+R10
+Z59 !s108 1528718835.273000
+Z60 !s107 D:/file/quartus_design/sc_computer/source/lpm_ram_dq_dram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vlpm_rom_irom
+Z61 !s100 TZ:S2HIf3NDGMEJnI^3km3
+Z62 IGHB4d2b^;kCai9A?3Ne^61
+Z63 V6I?:oUA0HYdli42?U:6:L0
+R4
+Z64 w1305004957
+Z65 8D:/file/quartus_design/sc_computer/source/lpm_rom_irom.v
+Z66 FD:/file/quartus_design/sc_computer/source/lpm_rom_irom.v
+L0 39
+R8
+r1
+31
+Z67 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/lpm_rom_irom.v|
+R10
+Z68 !s108 1528718835.442000
+Z69 !s107 D:/file/quartus_design/sc_computer/source/lpm_rom_irom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x32
+Z70 !s100 COSg1^TfS;>X<kzhP9>^K2
+Z71 IjaJJ9A@2mFPQ8bemk[T<00
+Z72 V_8o=]o8CzEDeX@^n?a@zP3
+R4
+Z73 w1252908544
+Z74 8D:/file/quartus_design/sc_computer/source/mux2x32.v
+Z75 FD:/file/quartus_design/sc_computer/source/mux2x32.v
+L0 1
+R8
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/mux2x32.v|
+R10
+Z77 !s108 1528718835.722000
+Z78 !s107 D:/file/quartus_design/sc_computer/source/mux2x32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x5
+Z79 !s100 Lb`<C@JaS6[?HWi;aDMAc3
+Z80 INdiX?b?1WkgJA?XFmRTIF3
+Z81 Vah3g>_]Y^Qz2GXD7HR^<<3
+R4
+Z82 w1253170143
+Z83 8D:/file/quartus_design/sc_computer/source/mux2x5.v
+Z84 FD:/file/quartus_design/sc_computer/source/mux2x5.v
+L0 1
+R8
+r1
+31
+Z85 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/mux2x5.v|
+R10
+Z86 !s108 1528718835.582000
+Z87 !s107 D:/file/quartus_design/sc_computer/source/mux2x5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4x32
+Z88 !s100 jR2=;LjmWlgo3ViK5Y=9E3
+Z89 I`E@<mhVXm11PVJ>Ce=Pjo3
+Z90 VM:hYY`k:C]4^:^k7d8C]M0
+R4
+Z91 w1252998688
+Z92 8D:/file/quartus_design/sc_computer/source/mux4x32.v
+Z93 FD:/file/quartus_design/sc_computer/source/mux4x32.v
+L0 1
+R8
+r1
+31
+Z94 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/mux4x32.v|
+R10
+Z95 !s108 1528718835.852000
+Z96 !s107 D:/file/quartus_design/sc_computer/source/mux4x32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+Z97 !s100 EC3>88WbiR[T2P?3O^F@Y0
+Z98 IXaI<fhMJ7@@8Qz?I@8^:M1
+Z99 VHL?YD<z4Tlb1gm`0^XW@D2
+R4
+Z100 w1528259338
+Z101 8D:/file/quartus_design/sc_computer/source/regfile.v
+Z102 FD:/file/quartus_design/sc_computer/source/regfile.v
+L0 1
+R8
+r1
+31
+Z103 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/regfile.v|
+R10
+Z104 !s108 1528718835.992000
+Z105 !s107 D:/file/quartus_design/sc_computer/source/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_computer
+!i10b 1
+!s100 zEC]U^bKegjH0dJnZDGOh2
+I=LBUY_kMYSNZTh@d5LXV@2
+Z106 V4hW^AN@PPgPm:PGlRi_A;0
+R4
+Z107 w1528719953
+Z108 8D:/file/quartus_design/sc_computer/source/sc_computer.v
+Z109 FD:/file/quartus_design/sc_computer/source/sc_computer.v
+L0 7
+R8
+r1
+!s85 0
+31
+Z110 !s108 1528720353.038000
+Z111 !s107 D:/file/quartus_design/sc_computer/source/sc_computer.v|
+Z112 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/sc_computer.v|
+!s101 -O0
+R10
+vsc_computer_sim
+Z113 !s100 P0Q2PBMO4G@];:[GR4:=O1
+Z114 ImPn9l9kh5XP^I:HBldl6<2
+Z115 V^jiC<6F7]doek[nRMoOol1
+R4
+Z116 w1528260122
+Z117 8D:/file/quartus_design/sc_computer/sc_computer_sim.v
+Z118 FD:/file/quartus_design/sc_computer/sc_computer_sim.v
+L0 26
+R8
+r1
+31
+Z119 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/sc_computer_sim.v|
+R10
+Z120 !s108 1528718834.692000
+Z121 !s107 D:/file/quartus_design/sc_computer/sc_computer_sim.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_cpu
+Z122 !s100 gdzPk`H8@XKX;BdfM^BFC0
+Z123 Ilj]gKd>[nF?U;1[lR:e]Q0
+Z124 V:mi8;^<LZUMNBc_]kEVbj2
+R4
+Z125 w1528266556
+Z126 8D:/file/quartus_design/sc_computer/source/sc_cpu.v
+Z127 FD:/file/quartus_design/sc_computer/source/sc_cpu.v
+L0 1
+R8
+r1
+31
+Z128 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/sc_cpu.v|
+R10
+Z129 !s108 1528718836.362000
+Z130 !s107 D:/file/quartus_design/sc_computer/source/sc_cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_cu
+Z131 !s100 A<B3KLCNS[9_Q5NN6f^`J1
+Z132 Io40@?5NO25]^feYPR6ZcD3
+Z133 VAlN72Pg@l_c4ao;V0co7c3
+R4
+Z134 w1528612830
+Z135 8D:/file/quartus_design/sc_computer/source/sc_cu.v
+Z136 FD:/file/quartus_design/sc_computer/source/sc_cu.v
+L0 1
+R8
+r1
+31
+Z137 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/sc_cu.v|
+R10
+Z138 !s108 1528718836.492000
+Z139 !s107 D:/file/quartus_design/sc_computer/source/sc_cu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_datamem
+Z140 !s100 JbWaJ3zWjQRW]UbJ3Yf<?3
+Z141 IcP2B2P0`J1lMV`ZMLN1m]1
+Z142 VXTCjK;L2DcHJ@3gnnz[E11
+R4
+Z143 w1528691560
+Z144 8D:/file/quartus_design/sc_computer/source/sc_datamem.v
+Z145 FD:/file/quartus_design/sc_computer/source/sc_datamem.v
+L0 1
+R8
+r1
+31
+Z146 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/sc_datamem.v|
+R10
+Z147 !s108 1528718836.662000
+Z148 !s107 D:/file/quartus_design/sc_computer/source/sc_datamem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_instmem
+Z149 !s100 U8V923`8H`QhmVF`JGIXd1
+Z150 I>XU^YDc`WY2C7hn46SL[01
+Z151 VkU`UIUgSeP=c3TJLN64XO2
+R4
+Z152 w1305084523
+Z153 8D:/file/quartus_design/sc_computer/source/sc_instmen.v
+Z154 FD:/file/quartus_design/sc_computer/source/sc_instmen.v
+L0 1
+R8
+r1
+31
+Z155 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/sc_instmen.v|
+R10
+Z156 !s108 1528718836.792000
+Z157 !s107 D:/file/quartus_design/sc_computer/source/sc_instmen.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsevenseg
+!i10b 1
+Z158 !s100 =R=BZFGkzC<HHoBz`I4O=3
+Z159 IN8ECDNeDL456h]f1ckoXh0
+Z160 V<kz4<ET@H::]Aoef`6B9U3
+R4
+R107
+R108
+R109
+L0 40
+R8
+r1
+!s85 0
+31
+R110
+R111
+R112
+!s101 -O0
+R10
+vtestoperation
+Z161 !s100 1]@bzZVhaNa09[X=A7^S]0
+Z162 If1h^94=HY>CbX4oQfj@hG2
+Z163 VS:I_I>TD9jNj<PTTHdLVm3
+R4
+Z164 w1528264872
+Z165 8D:/file/quartus_design/sc_computer/source/testalu.v
+Z166 FD:/file/quartus_design/sc_computer/source/testalu.v
+L0 2
+R8
+r1
+31
+Z167 !s90 -reportprogress|300|-work|work|D:/file/quartus_design/sc_computer/source/testalu.v|
+R10
+Z168 !s108 1528718836.952000
+Z169 !s107 D:/file/quartus_design/sc_computer/source/testalu.v|
+!i10b 1
+!s85 0
+!s101 -O0

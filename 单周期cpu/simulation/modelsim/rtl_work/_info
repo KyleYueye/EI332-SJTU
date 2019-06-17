@@ -1,0 +1,365 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\Software\altera\sc\sc_computer\simulation\modelsim
+valu
+IR`YOMoV<iad1ch_<`95JC2
+VKc:bVz32gc5X2ZbjUde9O3
+Z1 dD:\Software\altera\sc\sc_computer\simulation\modelsim
+Z2 w1548545520
+8D:/Software/altera/sc/sc_computer/source/alu.v
+FD:/Software/altera/sc/sc_computer/source/alu.v
+L0 1
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-vlog01compat -work work -O0
+Z5 !s92 -vlog01compat -work work +incdir+D:/Software/altera/sc/sc_computer/source -O0
+!i10b 1
+!s100 :^LYhXLG38NB5Ti4ddE4d2
+!s85 0
+!s108 1559986651.320000
+!s107 D:/Software/altera/sc/sc_computer/source/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/alu.v|
+!s101 -O0
+vdff32
+IHh5R6>IH8<2I]UCk^CW1A1
+VUO7_EzIi9>SeN7M;XG9<c0
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/dff32.v
+FD:/Software/altera/sc/sc_computer/source/dff32.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 FB>z]^F67YJ<L;WgP3WzS3
+!s85 0
+!s108 1559986651.441000
+!s107 D:/Software/altera/sc/sc_computer/source/dff32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/dff32.v|
+!s101 -O0
+vio_input_mux
+I<AQdeTSY3EAm?ECm=61Il1
+VE]W_C0AC;VoBAl[RC@dLB2
+R1
+Z6 w1559642035
+Z7 8D:/Software/altera/sc/sc_computer/source/io_input_reg.v
+Z8 FD:/Software/altera/sc/sc_computer/source/io_input_reg.v
+L0 16
+R3
+r1
+31
+Z9 !s108 1559986653.963000
+Z10 !s107 D:/Software/altera/sc/sc_computer/source/io_input_reg.v|
+Z11 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/io_input_reg.v|
+R4
+R5
+!i10b 1
+!s100 [c`7]`7VRYDUWZ1TiN8P40
+!s85 0
+!s101 -O0
+vio_input_reg
+IbDI82ZR[Z`I3KeX`BE3CC3
+Va`W>ea3e2a]BE_LJo_3@V1
+R1
+R6
+R7
+R8
+L0 1
+R3
+r1
+31
+R9
+R10
+R11
+R4
+R5
+!i10b 1
+!s100 0<k]BRO]dAfDNml4UbkRz1
+!s85 0
+!s101 -O0
+vio_output_reg
+Icz21@GC7XS8gMRD0lcM2l0
+V?f=h:WaAWKdngnaa?QSJj2
+R1
+w1559700382
+8D:/Software/altera/sc/sc_computer/source/io_output_reg.v
+FD:/Software/altera/sc/sc_computer/source/io_output_reg.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ]PKOiSfhjPHoiQdWKKKXG1
+!s85 0
+!s108 1559986653.790000
+!s107 D:/Software/altera/sc/sc_computer/source/io_output_reg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/io_output_reg.v|
+!s101 -O0
+vlpm_ram_dq_dram
+IffS5C<Gj^fVLdgXLbj2Ya0
+V;^>UgMFOjF@EZ@A<NMAW`0
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/lpm_ram_dq_dram.v
+FD:/Software/altera/sc/sc_computer/source/lpm_ram_dq_dram.v
+L0 39
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 GiRBELeHdbFSkY@YoH=3B1
+!s85 0
+!s108 1559986651.561000
+!s107 D:/Software/altera/sc/sc_computer/source/lpm_ram_dq_dram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/lpm_ram_dq_dram.v|
+!s101 -O0
+vlpm_rom_irom
+IP?ZYm8g022U08SN3Vz_bU0
+V6I?:oUA0HYdli42?U:6:L0
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/lpm_rom_irom.v
+FD:/Software/altera/sc/sc_computer/source/lpm_rom_irom.v
+L0 39
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 UaZCZ?9TJ^ZkoHh>BOKcE0
+!s85 0
+!s108 1559986651.752000
+!s107 D:/Software/altera/sc/sc_computer/source/lpm_rom_irom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/lpm_rom_irom.v|
+!s101 -O0
+vmux2x32
+I[dgOELHURi1Mb?RAX0Enf3
+V_8o=]o8CzEDeX@^n?a@zP3
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/mux2x32.v
+FD:/Software/altera/sc/sc_computer/source/mux2x32.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 RiAmV@kYjB]0hkZ5:^b1A0
+!s85 0
+!s108 1559986652.099000
+!s107 D:/Software/altera/sc/sc_computer/source/mux2x32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/mux2x32.v|
+!s101 -O0
+vmux2x5
+Ie6lPDLWWD>lVTe0[2oR=e3
+Vah3g>_]Y^Qz2GXD7HR^<<3
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/mux2x5.v
+FD:/Software/altera/sc/sc_computer/source/mux2x5.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ^c?m0f>[AKoak@Ci[CA5i0
+!s85 0
+!s108 1559986651.932000
+!s107 D:/Software/altera/sc/sc_computer/source/mux2x5.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/mux2x5.v|
+!s101 -O0
+vmux4x32
+ITHHF`LUo?jRD`TQHTaX[;1
+VM:hYY`k:C]4^:^k7d8C]M0
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/mux4x32.v
+FD:/Software/altera/sc/sc_computer/source/mux4x32.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 Q^mSn[OdeCm0m<T;95UAQ2
+!s85 0
+!s108 1559986652.254000
+!s107 D:/Software/altera/sc/sc_computer/source/mux4x32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/mux4x32.v|
+!s101 -O0
+vregfile
+I0Dfd4a]^HD]b1S1A8obfd2
+VHL?YD<z4Tlb1gm`0^XW@D2
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/regfile.v
+FD:/Software/altera/sc/sc_computer/source/regfile.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 P?n8KMEfozZ7K[iYB7g422
+!s85 0
+!s108 1559986652.401000
+!s107 D:/Software/altera/sc/sc_computer/source/regfile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/regfile.v|
+!s101 -O0
+vsc_computer
+IFBlWD2MUMblmDZ31:C`FC3
+V8;zaFzIhz>_jEU_l>:Nc10
+R1
+Z12 w1559986267
+Z13 8D:/Software/altera/sc/sc_computer/source/sc_computer.v
+Z14 FD:/Software/altera/sc/sc_computer/source/sc_computer.v
+L0 7
+R3
+r1
+31
+Z15 !s108 1559986652.618000
+Z16 !s107 D:/Software/altera/sc/sc_computer/source/sc_computer.v|
+Z17 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/sc_computer.v|
+R4
+R5
+!i10b 1
+!s100 NP7Gm?z>V3W`T]Hk7QWNg3
+!s85 0
+!s101 -O0
+vsc_computer_sim
+!i10b 1
+!s100 =_j82h<Od4n[AOPzbURg51
+I5K8Ba=Dh3SLRUkFXd46PV1
+V^jiC<6F7]doek[nRMoOol1
+R1
+w1559986619
+8D:/Software/altera/sc/sc_computer/sc_computer_sim.v
+FD:/Software/altera/sc/sc_computer/sc_computer_sim.v
+L0 26
+R3
+r1
+!s85 0
+31
+!s108 1559986654.181000
+!s107 D:/Software/altera/sc/sc_computer/sc_computer_sim.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer|D:/Software/altera/sc/sc_computer/sc_computer_sim.v|
+!s101 -O0
+R4
+!s92 -vlog01compat -work work +incdir+D:/Software/altera/sc/sc_computer -O0
+vsc_cpu
+I_4<7MT2Z7<[>>UIlKZjlC2
+V:mi8;^<LZUMNBc_]kEVbj2
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/sc_cpu.v
+FD:/Software/altera/sc/sc_computer/source/sc_cpu.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 oP6Xn2m<Z^iJXOEPPV]Sn0
+!s85 0
+!s108 1559986652.878000
+!s107 D:/Software/altera/sc/sc_computer/source/sc_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/sc_cpu.v|
+!s101 -O0
+vsc_cu
+If2:GQNcP95:FkW0U`gcV50
+VAlN72Pg@l_c4ao;V0co7c3
+R1
+w1559700302
+8D:/Software/altera/sc/sc_computer/source/sc_cu.v
+FD:/Software/altera/sc/sc_computer/source/sc_cu.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ^4GDG]Ja[fbhHPh_G^[3k1
+!s85 0
+!s108 1559986653.027000
+!s107 D:/Software/altera/sc/sc_computer/source/sc_cu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/sc_cu.v|
+!s101 -O0
+vsc_datamem
+IG5NajaZPG?fOS?i9d>:kg2
+VXTCjK;L2DcHJ@3gnnz[E11
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/sc_datamem.v
+FD:/Software/altera/sc/sc_computer/source/sc_datamem.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 z9T?iMdXFZMci>Q_=;7>f2
+!s85 0
+!s108 1559986653.171000
+!s107 D:/Software/altera/sc/sc_computer/source/sc_datamem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/sc_datamem.v|
+!s101 -O0
+vsc_instmem
+Ic@b3kF0:d>Oz;om;?U9Jh0
+VkU`UIUgSeP=c3TJLN64XO2
+R1
+R2
+8D:/Software/altera/sc/sc_computer/source/sc_instmen.v
+FD:/Software/altera/sc/sc_computer/source/sc_instmen.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 :^fPCVYdjn1e04=[LiJe[3
+!s85 0
+!s108 1559986653.522000
+!s107 D:/Software/altera/sc/sc_computer/source/sc_instmen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Software/altera/sc/sc_computer/source|D:/Software/altera/sc/sc_computer/source/sc_instmen.v|
+!s101 -O0
+vsevenseg
+ImZAln>V:zE:3e^cCDmHhA1
+V<kz4<ET@H::]Aoef`6B9U3
+R1
+R12
+R13
+R14
+L0 39
+R3
+r1
+31
+R15
+R16
+R17
+R4
+R5
+!i10b 1
+!s100 F;X`F9FAPZ0zo80dao6ni1
+!s85 0
+!s101 -O0

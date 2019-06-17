@@ -1,0 +1,461 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\lenovo\Documents\Tencent Files\313513799\FileRecv\FPGA-Single-Cycled-CPU-master\FPGA-Single-Cycled-CPU-master
+valu
+Z1 !s100 cj6j?<_DK=iK1cZ4L20_42
+Z2 I8>G^RgV_j]XenPJlm]4OO2
+Z3 V7WhcNChHE10k:fH6QanEO0
+Z4 dC:\Users\lenovo\Desktop\pipeline
+Z5 w1527958948
+Z6 8C:/Users/lenovo/Desktop/pipeline/alu.v
+Z7 FC:/Users/lenovo/Desktop/pipeline/alu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/alu.v|
+Z10 o-work work -O0
+Z11 !s108 1529217102.482000
+Z12 !s107 C:/Users/lenovo/Desktop/pipeline/alu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vio_input_mux
+Z13 !s100 U@[2OP;mNN5ZjOc^3CTQ63
+Z14 IP?@Y2J>X2mzK><QbET=PE3
+Z15 VO7iL?M=0J6aFU33V4VK:U2
+R4
+R5
+Z16 8C:/Users/lenovo/Desktop/pipeline/io_input_mux.v
+Z17 FC:/Users/lenovo/Desktop/pipeline/io_input_mux.v
+L0 1
+R8
+r1
+31
+Z18 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/io_input_mux.v|
+R10
+Z19 !s108 1529217102.644000
+Z20 !s107 C:/Users/lenovo/Desktop/pipeline/io_input_mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vio_input_reg
+Z21 !s100 67nI9@Y8d;jhV@NaAIA7F0
+Z22 IW_m_B0WIUWBjVGz7mJ71T2
+Z23 VlNTe^_]Jd:TL82RXdDhRY1
+R4
+Z24 w1528879970
+Z25 8C:/Users/lenovo/Desktop/pipeline/io_input_reg.v
+Z26 FC:/Users/lenovo/Desktop/pipeline/io_input_reg.v
+L0 1
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/io_input_reg.v|
+R10
+Z28 !s108 1529217102.810000
+Z29 !s107 C:/Users/lenovo/Desktop/pipeline/io_input_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vio_output_reg
+Z30 !s100 =lhCF@mJ?kANMhE0B1fR:0
+Z31 IZGkZL7@ai[Bk3[M8C>X]T2
+Z32 V?f=h:WaAWKdngnaa?QSJj2
+R4
+Z33 w1528879988
+Z34 8C:/Users/lenovo/Desktop/pipeline/io_output_reg.v
+Z35 FC:/Users/lenovo/Desktop/pipeline/io_output_reg.v
+L0 1
+R8
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/io_output_reg.v|
+R10
+Z37 !s108 1529217102.976000
+Z38 !s107 C:/Users/lenovo/Desktop/pipeline/io_output_reg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x32
+Z39 !s100 WQQ>5BAajQLSb?PFb^zQD0
+Z40 IdQNPK?:MV;2zESUDRBfA;0
+Z41 V_8o=]o8CzEDeX@^n?a@zP3
+R4
+R5
+Z42 8C:/Users/lenovo/Desktop/pipeline/mux2x32.v
+Z43 FC:/Users/lenovo/Desktop/pipeline/mux2x32.v
+L0 1
+R8
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/mux2x32.v|
+R10
+Z45 !s108 1529217103.309000
+Z46 !s107 C:/Users/lenovo/Desktop/pipeline/mux2x32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2x5
+Z47 !s100 Bg^N`a@O<`SO^B;@11=S22
+Z48 IdPFCBAIF15aZGV64i:F;11
+Z49 Vah3g>_]Y^Qz2GXD7HR^<<3
+R4
+R5
+Z50 8C:/Users/lenovo/Desktop/pipeline/mux2x5.v
+Z51 FC:/Users/lenovo/Desktop/pipeline/mux2x5.v
+L0 1
+R8
+r1
+31
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/mux2x5.v|
+R10
+Z53 !s108 1529217103.137000
+Z54 !s107 C:/Users/lenovo/Desktop/pipeline/mux2x5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4x32
+Z55 !s100 bD7DFBk_5mMg`J:6PW@4d0
+Z56 IeI^MhS[LM;3b?NFec=J1=0
+Z57 VM:hYY`k:C]4^:^k7d8C]M0
+R4
+R5
+Z58 8C:/Users/lenovo/Desktop/pipeline/mux4x32.v
+Z59 FC:/Users/lenovo/Desktop/pipeline/mux4x32.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/mux4x32.v|
+R10
+Z61 !s108 1529217103.477000
+Z62 !s107 C:/Users/lenovo/Desktop/pipeline/mux4x32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipecomputer_sim
+!i10b 1
+Z63 !s100 >ELXNh0_eYT@5eMK`DIMS0
+Z64 IU3@^UDE8VAGTa2@OTYh2c1
+Z65 V1<1MON9JQ0^@TaVa;kYl61
+R4
+Z66 w1529217022
+Z67 8C:/Users/lenovo/Desktop/pipeline/pipesim.v
+Z68 FC:/Users/lenovo/Desktop/pipeline/pipesim.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1529217228.031000
+!s107 C:/Users/lenovo/Desktop/pipeline/pipesim.v|
+Z69 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipesim.v|
+!s101 -O0
+R10
+vpipecu
+Z70 !s100 >gWd9hj404acDK`7@=bWP0
+Z71 IXadJW5XF5BTUfen^OeooG1
+Z72 Vz<Kel]`YlzfY7OAW?23?U3
+R4
+Z73 w1528880151
+Z74 8C:/Users/lenovo/Desktop/pipeline/pipecu.v
+Z75 FC:/Users/lenovo/Desktop/pipeline/pipecu.v
+L0 1
+R8
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipecu.v|
+R10
+Z77 !s108 1529217103.659000
+Z78 !s107 C:/Users/lenovo/Desktop/pipeline/pipecu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipedereg
+Z79 !s100 Q3b2Gjhh?h@ca203U9g@c0
+Z80 I0WEfZHJ8;dDQ3;j>Zz=SM3
+Z81 VcA>3gWnZG>eC<;iViLf^f2
+R4
+R5
+Z82 8C:/Users/lenovo/Desktop/pipeline/pipedereg.v
+Z83 FC:/Users/lenovo/Desktop/pipeline/pipedereg.v
+L0 1
+R8
+r1
+31
+Z84 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipedereg.v|
+R10
+Z85 !s108 1529217103.889000
+Z86 !s107 C:/Users/lenovo/Desktop/pipeline/pipedereg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipeemreg
+Z87 !s100 81YJ4?86?UoaSPfNTmP2Y3
+Z88 I18o]SY<R64b5N4D?NlB_;3
+Z89 V3I1jGXGA<KJjF8Fd=FNC`3
+R4
+R5
+Z90 8C:/Users/lenovo/Desktop/pipeline/pipeemreg.v
+Z91 FC:/Users/lenovo/Desktop/pipeline/pipeemreg.v
+L0 1
+R8
+r1
+31
+Z92 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipeemreg.v|
+R10
+Z93 !s108 1529217104.257000
+Z94 !s107 C:/Users/lenovo/Desktop/pipeline/pipeemreg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipeexe
+Z95 !s100 8ARnkmCEk>_G7T8iGOB8V1
+Z96 IG@6[?16K0;@@I>b[lK3N[1
+Z97 VN73Fmk<MQ1_fBdQ<A;?1M1
+R4
+Z98 w1528881125
+Z99 8C:/Users/lenovo/Desktop/pipeline/pipeexe.v
+Z100 FC:/Users/lenovo/Desktop/pipeline/pipeexe.v
+L0 1
+R8
+r1
+31
+Z101 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipeexe.v|
+R10
+Z102 !s108 1529217104.641000
+Z103 !s107 C:/Users/lenovo/Desktop/pipeline/pipeexe.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipeid
+Z104 !s100 P_N9EcIh[>WcJ2NXNdlUV0
+Z105 IHhJ9dQR7o4;^j@M0l:kSo1
+Z106 V=d:iIU_WY>3D<>PmQ^N6f0
+R4
+Z107 w1528885404
+Z108 8C:/Users/lenovo/Desktop/pipeline/pipeid.v
+Z109 FC:/Users/lenovo/Desktop/pipeline/pipeid.v
+L0 1
+R8
+r1
+31
+Z110 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipeid.v|
+R10
+Z111 !s108 1529217105.040000
+Z112 !s107 C:/Users/lenovo/Desktop/pipeline/pipeid.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipeif
+Z113 !s100 `0NaL4nJ2UJ`ZAG=24;JJ1
+Z114 I][S;:_047fiAS3FgbilGJ0
+Z115 VkmMVfJQLL21E8ei>i:1BT2
+R4
+Z116 w1528881802
+Z117 8C:/Users/lenovo/Desktop/pipeline/pipeif.v
+Z118 FC:/Users/lenovo/Desktop/pipeline/pipeif.v
+L0 1
+R8
+r1
+31
+Z119 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipeif.v|
+R10
+Z120 !s108 1529217105.283000
+Z121 !s107 C:/Users/lenovo/Desktop/pipeline/pipeif.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipeir
+Z122 !s100 Y1j`S1=;=DPVc=8IZkmM21
+Z123 ISS<]eX5:HUMJINoHg9<0P3
+Z124 VXAID;`^C?92>R1?9o><oA0
+R4
+R5
+Z125 8C:/Users/lenovo/Desktop/pipeline/pipeir.v
+Z126 FC:/Users/lenovo/Desktop/pipeline/pipeir.v
+L0 1
+R8
+r1
+31
+Z127 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipeir.v|
+R10
+Z128 !s108 1529217105.418000
+Z129 !s107 C:/Users/lenovo/Desktop/pipeline/pipeir.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipelined_computer
+Z130 !s100 _@:JaQ[Yac?R;oPLLiNV50
+Z131 I8`iUnbZUZ9B_;m]3]HWD03
+Z132 VXEh_LnLohEg:F7]JiT=jY1
+R4
+Z133 w1528885228
+Z134 8C:/Users/lenovo/Desktop/pipeline/pipelined_computer.v
+Z135 FC:/Users/lenovo/Desktop/pipeline/pipelined_computer.v
+L0 1
+R8
+r1
+31
+Z136 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipelined_computer.v|
+R10
+Z137 !s108 1529217105.583000
+Z138 !s107 C:/Users/lenovo/Desktop/pipeline/pipelined_computer.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipemem
+Z139 !s100 S?S[hU`?5O0SYkN:Ml1Do3
+Z140 IF=?JJjEfB6CT?PaiAP6b>1
+Z141 V2^KhEPmBTE^PK<U[CNVDO1
+R4
+R5
+Z142 8C:/Users/lenovo/Desktop/pipeline/pipemem.v
+Z143 FC:/Users/lenovo/Desktop/pipeline/pipemem.v
+L0 1
+R8
+r1
+31
+Z144 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipemem.v|
+R10
+Z145 !s108 1529217105.755000
+Z146 !s107 C:/Users/lenovo/Desktop/pipeline/pipemem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipemwreg
+Z147 !s100 A3748F5:NYLQ`C9a:BS:R1
+Z148 IN?B;nP?cMPeY`;zJVNf@=1
+Z149 VId]69z>dOce;D[VcEm6@=3
+R4
+R5
+Z150 8C:/Users/lenovo/Desktop/pipeline/pipemwreg.v
+Z151 FC:/Users/lenovo/Desktop/pipeline/pipemwreg.v
+L0 1
+R8
+r1
+31
+Z152 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipemwreg.v|
+R10
+Z153 !s108 1529217106.346000
+Z154 !s107 C:/Users/lenovo/Desktop/pipeline/pipemwreg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vpipepc
+Z155 !s100 KPgAG_>;oR1d<dcmB^=120
+Z156 IBCZ76R0?VR[V6a_M<;^`70
+Z157 V?TeI]2Q7YZDQM4R_aiind1
+R4
+Z158 w1528880888
+Z159 8C:/Users/lenovo/Desktop/pipeline/pipepc.v
+Z160 FC:/Users/lenovo/Desktop/pipeline/pipepc.v
+L0 1
+R8
+r1
+31
+Z161 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/pipepc.v|
+R10
+Z162 !s108 1529217106.799000
+Z163 !s107 C:/Users/lenovo/Desktop/pipeline/pipepc.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vram
+Z164 !s100 ?R3n^E6Cd?<PmBTf3<NYV3
+Z165 IV81coO]jG`7`WXCS@^LPC0
+Z166 V[cNXoo9Jb6aFzgzVA>0SK1
+R4
+Z167 w1528532708
+Z168 8C:/Users/lenovo/Desktop/pipeline/ram.v
+Z169 FC:/Users/lenovo/Desktop/pipeline/ram.v
+L0 39
+R8
+r1
+31
+Z170 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/ram.v|
+R10
+Z171 !s108 1529217107.596000
+Z172 !s107 C:/Users/lenovo/Desktop/pipeline/ram.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+Z173 !s100 CASFN;a0hCZ72^]=H:T2k0
+Z174 I_`8QU:9M2hj;>H2GXBQiR1
+Z175 VHL?YD<z4Tlb1gm`0^XW@D2
+R4
+Z176 w1528885548
+Z177 8C:/Users/lenovo/Desktop/pipeline/regfile.v
+Z178 FC:/Users/lenovo/Desktop/pipeline/regfile.v
+L0 1
+R8
+r1
+31
+Z179 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/regfile.v|
+R10
+Z180 !s108 1529217107.959000
+Z181 !s107 C:/Users/lenovo/Desktop/pipeline/regfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vrom
+Z182 !s100 WKBPiQA3P_FRmA1oMCmGI0
+Z183 I`P2nAJ;a]kV8L2J:GhQYi1
+Z184 V@`P0ba0gkFol5KXk2I2WA1
+R4
+Z185 w1528532743
+Z186 8C:/Users/lenovo/Desktop/pipeline/rom.v
+Z187 FC:/Users/lenovo/Desktop/pipeline/rom.v
+L0 39
+R8
+r1
+31
+Z188 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/rom.v|
+R10
+Z189 !s108 1529217108.381000
+Z190 !s107 C:/Users/lenovo/Desktop/pipeline/rom.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsc_instmem
+Z191 !s100 46cD6eQSKl;`OU<W6zc?40
+Z192 I8FD7_@0^?6JFkO<S1a9Eo0
+Z193 VkU`UIUgSeP=c3TJLN64XO2
+R4
+R5
+Z194 8C:/Users/lenovo/Desktop/pipeline/sc_instmem.v
+Z195 FC:/Users/lenovo/Desktop/pipeline/sc_instmem.v
+L0 1
+R8
+r1
+31
+Z196 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/sc_instmem.v|
+R10
+Z197 !s108 1529217108.818000
+Z198 !s107 C:/Users/lenovo/Desktop/pipeline/sc_instmem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsevenseg
+Z199 !s100 jY9J72Zm^Bn5MfbYh;4^?3
+Z200 IAdn4ec3n^]`lXm]dX<HAO3
+Z201 VY^][jX`@WWN<XZD2_;W3[0
+R4
+R5
+Z202 8C:/Users/lenovo/Desktop/pipeline/sevenseg.v
+Z203 FC:/Users/lenovo/Desktop/pipeline/sevenseg.v
+L0 1
+R8
+r1
+31
+Z204 !s90 -reportprogress|300|-work|work|C:/Users/lenovo/Desktop/pipeline/sevenseg.v|
+R10
+!i10b 1
+!s85 0
+Z205 !s108 1529217109.248000
+Z206 !s107 C:/Users/lenovo/Desktop/pipeline/sevenseg.v|
+!s101 -O0
